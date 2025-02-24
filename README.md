@@ -1,5 +1,3 @@
-# gas
-Google Apps Script
 # Unique Code Generator for Google Sheets
 
 This Google Apps Script generates unique codes (e.g., "ORD-001", "ORD-002") in a Google Sheets spreadsheet and automatically adds them to a specified column when a new row is edited. It’s useful for tracking orders, requests, or any items requiring a unique identifier.
@@ -37,4 +35,3 @@ This Google Apps Script generates unique codes (e.g., "ORD-001", "ORD-002") in a
 - If you manually edit a code in column A, the script won’t interfere unless another column is edited.
 
 ## License
-This project is licensed under the MIT License — feel free to use and modify it as needed!
